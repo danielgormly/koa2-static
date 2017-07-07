@@ -1,6 +1,6 @@
 # koa2-static-middleware
 
-Adapted from [MatheusMK3/koa-router-static](https://github.com/MatheusMK3/koa-router-static/blob/master/index.js). Compatible with [alexmingoia/koa-router](https://github.com/alexmingoia/koa-router).
+Adapted from [MatheusMK3/koa-router-static](https://github.com/MatheusMK3/koa-router-static/blob/master/index.js). Compatible with [koa-router](https://github.com/alexmingoia/koa-router). Serves static files at directory.
 
 ## Install
 
