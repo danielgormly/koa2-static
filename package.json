@@ -1,0 +1,19 @@
+{
+  "name": "koa2-static",
+  "version": "0.0.1",
+  "description": "Static file serving middleware for Koa 2, compatible with Koa-Router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgormly/koa2-static.git"
+  },
+  "author": "Daniel Gormly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielgormly/koa2-static/issues"
+  },
+  "homepage": "https://github.com/danielgormly/koa2-static#readme"
+}
