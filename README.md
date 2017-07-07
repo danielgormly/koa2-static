@@ -1,10 +1,10 @@
-# koa2-static
+# koa2-static-middleware
 
 Adapted from [MatheusMK3/koa-router-static](https://github.com/MatheusMK3/koa-router-static/blob/master/index.js). Compatible with [alexmingoia/koa-router](https://github.com/alexmingoia/koa-router).
 
 ## Install
 
-`npm i koa2-static`
+`npm i koa2-static-middleware`
 
 ## Usage
 
