@@ -1,6 +1,6 @@
 {
   "name": "koa2-static-middleware",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Static file serving middleware for Koa 2, compatible with Koa-Router",
   "main": "index.js",
   "scripts": {

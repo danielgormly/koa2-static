@@ -8,7 +8,7 @@ Adapted from [MatheusMK3/koa-router-static](https://github.com/MatheusMK3/koa-ro
 
 ## Usage
 
-```
+```javascript
 const Koa = require('koa');
 const Router = require('koa-router');
 const serve = require('koa-router-static');
