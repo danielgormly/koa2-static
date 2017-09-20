@@ -1,6 +1,6 @@
 {
   "name": "koa2-static-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Static file serving middleware for Koa 2, compatible with Koa-Router",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/danielgormly/koa2-static-middleware.git"
   },
   "author": "danielgormly",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/danielgormly/koa2-static-middleware/issues"
   },

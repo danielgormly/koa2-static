@@ -69,4 +69,4 @@ This module determines whether `alexmingoia/koa-router` is being used through du
 [david-url]: https://david-dm.org/danielgormly/koa2-static-middleware
 [downloads-image]: https://img.shields.io/npm/dw/koa2-static-middleware.svg
 [license-url]: https://opensource.org/licenses/MIT
-[license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-image]: https://img.shields.io/npm/l/koa2-static-middleware.svg
