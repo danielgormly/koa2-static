@@ -23,6 +23,7 @@ Returns middleware function with applied settings.
 **`path`:** _String_ local directory from where to serve assets
 
 **`opts`:** _Object_ {
+
 &nbsp;&nbsp;`opts.index`: _string_ file to serve from root path. _default_: `index.html`
 
 &nbsp;&nbsp;`opts.debug`: _boolean_ prints info to console on initial middleware producing function call. _default_: `false`
