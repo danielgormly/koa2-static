@@ -61,10 +61,13 @@ app.listen(8000, () => console.log('Serving local files from ./dist directory at
 
 This module determines whether `alexmingoia/koa-router` is being used through duck-typing, specifically it checks whether `ctx.params` is set or not. If it is, it will use koa-router routes. So if you are using other middleware that hijacks the `params` property on `ctx`, you may run into problems.
 
+[npm-version]: https://img.shields.io/npm/v/koa2-static-middleware.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/koa2-static-middleware
 [travis-url]: https://travis-ci.org/danielgormly/koa2-static-middleware
 [travis-image]: https://travis-ci.org/danielgormly/koa2-static-middleware.svg?branch=master
 [david-image]: https://david-dm.org/danielgormly/koa2-static-middleware.svg
 [david-url]: https://david-dm.org/danielgormly/koa2-static-middleware
+[downloads-image]: https://img.shields.io/badge/pls%20download-lmao-ff69b4.svg
+[downloads-url]: https://img.shields.io/npm/dw/koa2-static-middleware.svg
 [license-url]: https://opensource.org/licenses/MIT
 [license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
