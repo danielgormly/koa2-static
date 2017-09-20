@@ -13,7 +13,7 @@ module.exports = function (rootOpt, opts = {}) {
 		if (ctx.method !== 'GET' && ctx.method !== 'HEAD') return;
 		if (typeof ctx.body !== 'undefined' || ctx.status !== 404) return;
 
-		const file = ctx.params['0'] || `/${opts.index}`;
+		const file = typeof ctx.params === 'object' ? ctx.params['0'] || `/${opts.index}` : ctx.request.path;
 		let requested = path.normalize(file);
 		if (requested.length === 0 || requested === '/') requested = opts.index;
 
